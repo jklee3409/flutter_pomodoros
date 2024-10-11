@@ -17,4 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Screen Configuration
 
-![KakaoTalk_20241011_135914264](https://github.com/user-attachments/assets/723007ca-a70c-4938-927c-ed0832ebc0ad)
+![sxreen](https://github.com/user-attachments/assets/723007ca-a70c-4938-927c-ed0832ebc0ad){: width="300" height="300"}
+
+
