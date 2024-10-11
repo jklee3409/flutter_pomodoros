@@ -17,6 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Screen Configuration
 
-<img src="https://github.com/user-attachments/assets/723007ca-a70c-4938-927c-ed0832ebc0ad" width="300" height="300"/>
+<img src="https://github.com/user-attachments/assets/723007ca-a70c-4938-927c-ed0832ebc0ad" width="300" height="500"/>
 
 
